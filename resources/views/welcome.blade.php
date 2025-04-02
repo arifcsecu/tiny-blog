@@ -25,6 +25,10 @@
                 <h3 class="text-xl font-semibold">Post Title 2</h3>
                 <p class="text-gray-700">This is a summary of the second blog post...</p>
             </div>
+            <div class="bg-white p-4 mt-4 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold">Post Title 3</h3>
+                <p class="text-gray-700">This is a summary of the third blog post...</p>
+            </div>
         </section>
 
         <section>
